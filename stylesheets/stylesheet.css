@@ -118,6 +118,7 @@ header h1 {
   font-weight: normal;
   color: #3B293D; }
 .main-content p {
+  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
