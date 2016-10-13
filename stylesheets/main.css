@@ -19,12 +19,8 @@ header h1 {
 }
 
 header nav {
-  display: flex;
-  justify-content: flex-end;
-}
-
-header nav p {
   display: inline;
+  justify-content: flex-end;
 }
 
 header p {
