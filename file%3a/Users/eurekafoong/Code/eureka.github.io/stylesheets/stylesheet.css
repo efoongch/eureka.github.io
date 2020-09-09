@@ -64,53 +64,42 @@ header h1 {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 2rem 4rem;
-    } }
+    padding: 5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 1rem 4rem;
-    } }
+    padding: 3rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 1rem 1rem;
-    } }
+    padding: 2rem 1rem; } }
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
-  text-align: left;
-  /* position: absolute; */
-  }
+  margin-bottom: 0.1rem; }
 
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 3.75rem;
-  } }
+    font-size: 3.25rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 3rem;
-    } }
+    font-size: 2.25rem; } }
 
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 2.75rem;
-    } }
+    font-size: 1.75rem; } }
 
 .project-tagline {
   font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
   margin-bottom: 1rem;
   font-weight: normal;
   opacity: 0.7;
-  text-align: left;
   }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem;
-    } }
+    font-size: 1.25rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
@@ -118,8 +107,7 @@ header h1 {
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1rem;
-    } }
+    font-size: 1rem; } }
 
 .main-content :first-child {
   margin-top: 0; }
@@ -262,30 +250,3 @@ header h1 {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
-
-#parent-about-me{
-  display:flex;
-}
-
-#profile-pic {
-  padding:10px 10px;
-  width: 45%;
-}
-
-#question {
-  flex: 1;
-  width:70%;
-  padding: 10px 10px;
-}
-
-@media screen and (min-width: 64em) {
-  #question {
-    font-size: 1.75rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  #question {
-    font-size: 1.25rem; } }
-
-@media screen and (max-width: 42em) {
-  #question {
-    font-size: 1.0rem; } }
