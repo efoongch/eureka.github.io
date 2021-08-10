@@ -1,32 +1,14 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: About Me
+subtitle: I'm a UX Researcher and Leader (for hire!)
+description: More about me
+featured_image: /images/eureka_tokyocollege.jpg
 ---
 
-## Features
+## Hello!　こんにちは
 
-We've packed Personal full of powerful features to help showcase your work:
+<p>I am a Postdoctoral Fellow at the interdisciplinary <a href="https://www.tc.u-tokyo.ac.jp/">Tokyo College</a> institute in the University of Tokyo, where I collaborate with <a href="http://www.cyber.t.u-tokyo.ac.jp/~kuzuoka/index.html">Dr. Hideaki Kuzuoka</a> in the <a href="http://www.cyber.t.u-tokyo.ac.jp/">Cyber Interface Lab</a> and Dr. Naomi Yamashita at NTT. I am also a Visiting Researcher at Carnegie Mellon University's <a href="https://www.hcii.cmu.edu/">Human-Computer Interaction Institute (HCII)</a> with <a href="http://www.lauradabbish.com/">Dr. Laura Dabbish</a>, where I am leading a fully-remote team of eight researchers and designers. I earned my PhD in <a href="http://tsb.northwestern.edu/index.php">Technology and Social Behavior</a> at <a href="http://www.northwestern.edu/">Northwestern University</a> under <a href="https://egerber.mech.northwestern.edu/">Dr. Elizabeth Gerber</a> in the Delta Lab, and have industry experience leading UX Research teams at Facebook and Piktochart.</p>
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+<p>When I'm not working from home, you can find me exploring Tokyo, looking for a beach, or playing my ukulele. よろしくお願いいたします。</p>
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="/documents/eureka_cv.pdf" class="button button--large">Download my CV</a>
