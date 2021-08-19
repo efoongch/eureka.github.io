@@ -19,6 +19,6 @@ In a large-scale analysis of 48,019 workers' profiles on Upwork, a popular onlin
 In collaboration with Carnegie Mellon University, I have conducted nearly 20 online design workshops with freelancers across the globe to co-design tools that promote gender equity in online negotiation and rate-setting. 
 
 ### Publications
-<a href="/documents/foong_gerber_chi2021_genderpricing.pdf">Eureka Foong and Elizabeth M. Gerber. 2021. Understanding Gender Differences in Pricing Strategies in Online Labor Marketplaces. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21)</a> -Honorable Mention Award
+<a href="/documents/foong_gerber_chi2021_genderpricing.pdf" class="js-no-ajax">Eureka Foong and Elizabeth M. Gerber. 2021. Understanding Gender Differences in Pricing Strategies in Online Labor Marketplaces. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21)</a> -Honorable Mention Award
 
-<a href="/documents/gender_differences_pay.pdf">Eureka Foong, Nicholas Vincent, Brent Hecht, and Elizabeth M. Gerber. 2018. Women (Still) Ask For Less: Gender Differences in Hourly Rate in an Online Labor Marketplace. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 53 (November 2018), 21 pages. DOI: https://doi.org/10.1145/3274322</a>
+<a href="/documents/gender_differences_pay.pdf" class="js-no-ajax">Eureka Foong, Nicholas Vincent, Brent Hecht, and Elizabeth M. Gerber. 2018. Women (Still) Ask For Less: Gender Differences in Hourly Rate in an Online Labor Marketplace. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 53 (November 2018), 21 pages. DOI: https://doi.org/10.1145/3274322</a>

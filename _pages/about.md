@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I'm a UX Researcher and Leader (for hire!)
+subtitle: 
 description: More about me
 featured_image: /images/eureka_tokyocollege.jpg
 ---
@@ -11,4 +11,4 @@ featured_image: /images/eureka_tokyocollege.jpg
 
 <p>When I'm not working from home, you can find me exploring Tokyo, looking for a beach, or playing my ukulele. よろしくお願いいたします。</p>
 
-<a href="/documents/eureka_cv.pdf" class="button button--large">Download my CV</a>
+<a href="/documents/eureka_cv.pdf" class="button button--large js-no-ajax">Download my CV</a>
