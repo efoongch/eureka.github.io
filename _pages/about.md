@@ -12,3 +12,8 @@ featured_image: /images/eureka_tokyocollege.jpg
 <p>When I'm not working from home, you can find me exploring Tokyo, looking for a beach, or playing my ukulele. よろしくお願いいたします。</p>
 
 <a href="/documents/eureka_cv.pdf" class="button button--large js-no-ajax">Download my CV</a>
+
+<a href="/documents/eurekafoong_portfolio_aug2021.pdf" class="button button--large js-no-ajax">Download my UX Research Portfolio</a>
+
+
+
