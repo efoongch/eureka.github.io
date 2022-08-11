@@ -5,7 +5,7 @@ description: More about me
 featured_image: /images/eureka_tokyocollege.jpg
 ---
 
-## Hello!　こんにちは
+## Hello! Grüezi! こんにちは！
 
 <p>I am a User Experience Researcher at YouTube in Google Switzerland (Zurich). My team does research to support creators in navigating copyright.</p>
 
