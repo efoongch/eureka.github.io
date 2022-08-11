@@ -7,5 +7,5 @@ featured_image: /images/eureka_fuji.jpg
 
 Thanks for your message! 
 
-Feel free to email me at foong [dot] eureka [at] tc [dot] u-tokyo [dot] ac [dot] jp!
+Feel free to email me at eureka [dot] foong [at] gmail [dot] com!
 

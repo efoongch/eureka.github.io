@@ -15,8 +15,7 @@ The online gig economy has the potential to mitigate gender inequities in the wo
 ### Past Work
 In a large-scale analysis of 48,019 workers' profiles on Upwork, a popular online labor marketplace, I found that the median woman on Upwork sets bill rates that are about 74% of the median man's rate, a discrepancy even bigger than the offline labor market. My follow-up survey research on gender differences in pricing strategies suggests that other factors, such as part-time freelancer status and importance of freelancing as a source of income, could influence bill rate more than specific pricing strategies.  
 
-### Current Study
-In collaboration with Carnegie Mellon University, I have conducted nearly 20 online design workshops with freelancers across the globe to co-design tools that promote gender equity in online negotiation and rate-setting. 
+In collaboration with Carnegie Mellon University, I conducted over 20 online participatory design sessions with freelancers across the globe to co-design tools that promote gender equity in online negotiation and rate-setting. 
 
 ### Publications
 <a href="/documents/foong_gerber_chi2021_genderpricing.pdf" class="js-no-ajax">Eureka Foong and Elizabeth M. Gerber. 2021. Understanding Gender Differences in Pricing Strategies in Online Labor Marketplaces. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21)</a> -Honorable Mention Award
