@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Eureka Foong, PhD
-featured_image: /images/eureka_old3.png
 ---
 
-<section class="hero">
+<section class="hero hero--single">
 
 	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
 		<div class="hero__overlay"></div>
@@ -12,42 +10,24 @@ featured_image: /images/eureka_old3.png
 
 	<div class="wrap">
 
-		<h1>Design + Equity</h1>
-		<h1>for Online Work</h1>
-		<p> UX Researcher at YouTube / Google Switzerland</p>
-
-		{% include socials.html %}
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
 
 	</div>
 
 </section>
 
-<section class="listing">
+<section class="single">
+	<img src="/images/eureka-swiss.jpg"></img>
 
 	<div class="wrap">
 
-		{% for project in site.projects reversed %}
+		<article class="single-post">
 
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-					<p class="post__subtitle">{{ project.subtitle }}</p>
-					<p class="post__description">{{ project.description }}</p>
-				</div>
-			</div>
+			{{ page.content }}
 
 		</article>
-
-		{% endfor %}
 
 	</div>
 
 </section>
-
-<script src="https://my.hellobar.com/904be8847a4b845cd1f220d39af9e7c0d0ef6ceb.js" type="text/javascript" charset="utf-8" async="async"> </script>
